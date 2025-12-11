@@ -1,4 +1,4 @@
-`nobutterfly.c` implements a pruning plugin for geng (nauty 2.9.1) that eliminates any graph containing a butterfly subgraph, so the generator outputs only non-isomorphic, butterfly-free connected graphs.
+`nobutterfly.c` implements a pruning plugin for geng (nauty 2.9.1) that eliminates any graph containing a butterfly subgraph, so the generator outputs only non-isomorphic, butterfly-free  graphs.
 
 
 connected butterfly-free graphs: 
